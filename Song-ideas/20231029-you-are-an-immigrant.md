@@ -1,7 +1,3 @@
-# Song Ideas
-
-In this file I register my song ideas
-
 ## You are an immigrant
 - Please behave
 - You are welcome, please behave
